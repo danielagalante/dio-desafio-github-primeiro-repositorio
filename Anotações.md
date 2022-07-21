@@ -1,4 +1,4 @@
-Comandos básicos
+###Comandos básicos
 Windows
 •	cd = levar para alguma pasta específica. Se usar apenas a /, levará à base
 •	dir = listar diretórios e pastas
